@@ -9,7 +9,7 @@ You are required to complete one of the two assignments in order to pass phase 2
 # Resources
 
 ## In-person workshop
-You should come our in-person workshop where we will introduce the skills needed to complete the assignment. You should attend both day 1 and day 2 of the stream that you are interested in.
+You should come to our in-person workshops where we will introduce the skills needed to complete the assignment. You should attend both day 1 and day 2 of the stream that you are interested in.
 
 | Topic                         | Time                    | Location            |
 |-------------------------------|-------------------------|---------------------|
