@@ -25,5 +25,38 @@ After the workshop, we will release the repository containing the sample code, d
 * [General Software Stream Documentation](https://github.com/NZMSA/2021-Phase-2)
 * [Data Science Stream Documentation](https://github.com/NZMSA/2021-Phase-2-Data-Science)
 
+# Workshop Preparation
+
+> All streams will require a Microsoft Azure account. You can create an [Azure for Students](https://github.com/NZMSA/2019-Phase-1/blob/master/Azure%20For%20Students/README.md)  account.
+
+## General Software Stream Workshop Preparation
+
+Before the workshop on Saturday, please make sure that you have completed all the items in the checklist below:
+
+✅ Install [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/) - When installing, ensure that `ASP.NET` and web development is selected<br>
+✅ Register for a [Microsoft Azure account](https://azure.microsoft.com/en-us/free/students/) - Free for students<br>
+✅ Register for a [GitHub](https://github.com) account and [GIT SCM](https://git-scm.com/downloads)<br>
+✅ Install [.NET Core 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)<br>
+✅ Install [Visual Studio Code](https://code.visualstudio.com/)<br>
+✅ Install [Node.js](https://nodejs.org/en/) with NPM
+
+After you've completed the checklist above, please check that you can run the following commands in your command line:
+
+```npx create-react-app my-app --template typescript```<br>
+```cd my-app npm start```
+
+---
+
+## Data Science Stream Workshop Preparation
+
+Before the workshop on Sunday, please make sure that you have completed all the items in the checklist below:
+
+✅ Register for Kaggle (https://www.kaggle.com/) and join the [CommonLit Readability Prize Challenge](https://www.kaggle.com/c/commonlitreadabilityprize)<br>
+✅ Install [Python](https://www.python.org/downloads/) or [Anaconda](https://www.anaconda.com/products/individual)<br>
+✅ Install the following libraries for Python (If you did not install Anaconda): [pandas](https://pandas.pydata.org/), [jupyter](https://jupyter.org/install), [scikit-learn](https://scikit-learn.org/), [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/), [requests](https://docs.python-requests.org/en/master/), [pytorch](https://pytorch.org/), [azureml-core](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core?view=azure-ml-py) <br>
+✅ Register for an Azure account (https://azure.microsoft.com/en-us/free/students/) <br>
+✅ Register for a GitHub Account (https://github.com/) - For hosting & storing our project.
+
+
 # Questions?
 Please ask us on our [facebook group](https://aka.ms/nzmsa) or [discord](https://discord.gg/c4Y5SAZ)
