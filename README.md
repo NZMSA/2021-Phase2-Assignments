@@ -1,5 +1,4 @@
 ## 2021 NZMSA Phase 2 Assignment Repository
-<br/>
 
 # Introduction
 You are required to complete one of the two assignments in order to pass phase 2. You can choose from 
